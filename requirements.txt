@@ -1,4 +1,4 @@
 openai-whisper
 yt-dlp
-pyinstaller
-
+googletrans==4.0.0-rc1
+setuptools
